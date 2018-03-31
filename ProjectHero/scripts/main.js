@@ -8,7 +8,7 @@
 
         function preload () {
 
-            game.load.image('logo', './assets/phaser.png');
+            game.load.image('logo', 'assets/phaser.png');
 
         }
 
