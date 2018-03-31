@@ -1,0 +1,19 @@
+{
+    "player":{"x":360, "y":100, "direction":-1},
+    "goat":{"x":360, "y":-280, "direction":-1},
+    "platforms":[
+        {"type":"normal", "x":200, "y":250},
+        {"type":"normal", "x":100, "y":250},
+        {"type":"normal", "x":140, "y":-230},
+        {"type":"normal", "x":0, "y":-230},
+        {"type":"large", "x":360, "y":280},
+        {"type":"large", "x":360, "y":-200},
+        {"type":"gold", "x":260, "y":0},
+        {"type":"gold", "x":100, "y":-140},
+        {"type":"gold", "x":-40, "y":160},
+        {"type":"gold", "x":-200, "y":80},
+        {"type":"arrow", "x":-360, "y":0},
+        {"type":"arrow", "x":-200, "y":-140}
+    ],
+    "apple":{"x":140, "y":-280}
+}
