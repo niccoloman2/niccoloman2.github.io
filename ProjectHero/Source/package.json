@@ -19,7 +19,7 @@
     "browserify": "^13.1.0",
     "del": "^2.2.2",
     "eslint": "^3.4.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-eslint": "^3.0.1",
     "gulp-if": "^2.0.1",
     "gulp-uglify": "^2.0.0",
